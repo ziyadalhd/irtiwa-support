@@ -5,4 +5,5 @@
 - الموقع: https://ziyadalhd.github.io/irtiwa-support/
 - الدعم: appirtiwa@gmail.com
 - النشر: GitHub Pages من جذر فرع main.
-- الخط: IBM Plex Sans Arabic، والترخيص في assets/FONT-LICENSE.txt.
+- الهوية: أيقونة التطبيق الأصلية، ومنديسا للعناوين، وIBM Plex للنصوص، وثمانية للأرقام. الخطوط من ملفات التطبيق دون تعديل.
+- ترخيص IBM Plex في assets/FONT-LICENSE.txt، وملاحظة مصدر ثمانية في assets/Thmanyah-Serif-LICENSE.txt. تبقى ملاحظات تراخيص خطوط التطبيق سارية؛ وجود الملفات ليس توثيقًا لترخيص نشر ويب مستقل.
